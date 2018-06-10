@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="shop_description">We are one of the leading and certified workshop in the city who helps you to maintain your bike.We deal in bike services,sell and purchase of motorbikes,tyres,genuine spare-parts from the reputed companies like Tvs,Honda,Suzuki,Royal Enfield etc. </string>
+    <string name="address">Shop No- 255 , Haridwar Road , Uttarakhand</string>
+    <string name="phone_number">+91- 9758000000</string>
+    <string name="timings">9:00 AM - 8:00 PM</string>
+    <string name="business_name">( New Roshan Automobiles )</string>
+    <string name="email">autonewroshan@gmail.com</string>
+    <string name="about_us">About Us</string>
+    <string name="content_Decs_logo">this image represents the nature of business or can say it\'s the logo of the business.</string>
+    <string name="bike_logo_content_desc">this is simple bike logo</string>
+    <string name="content_desc_email">indicates the e-mail address</string>
+    <string name="content_desc_phone_number">indicates the phone number</string>
+    <string name="content_desc_place">indicates the place of business</string>
+    <string name="content_desc_business_schedule">indicates the schedule of the business</string>
+</resources>
